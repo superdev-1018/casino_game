@@ -1,2 +1,4 @@
-# casino_game
-casino-game
+
+- How to run the project
+
+  npm start
